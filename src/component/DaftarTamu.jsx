@@ -61,9 +61,9 @@ Salam sejahtera bagi kita semua.
 
 Tanpa mengurangi rasa hormat, perkenankan kami mengundang Bapak/Ibu/Saudara/i untuk berkenan menghadiri acara yang akan kami selenggarakan bersama anak Difabel pada waktu dan tempat di bawah ini :
 
-Hari/tgl : Sabtu, 20 Januari 2024
-Waktu : 11.00 s.d. 16.00 WIB
-Tempat : Atrium Mall Bassura, Cipinang Jakarta
+Hari/tgl :
+Waktu :
+Tempat :
 
 Berikut link undangan acara :
 
