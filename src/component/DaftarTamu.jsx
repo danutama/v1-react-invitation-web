@@ -55,7 +55,6 @@ const DaftarTamu = () => {
                           onClick={() =>
                             copyToClipboard(`Kepada Yth. Bapak/Ibu/Saudara/i,
 *${guest}*
-Di tempat
 
 Assalamualaikum Wr. Wb.
 Salam sejahtera bagi kita semua.
